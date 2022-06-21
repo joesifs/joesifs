@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joesifs
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in coding for programming and cyber security.
+- 🌱 I’m currently learning python, c++ and java
+- 💞️ I’m looking to collaborate on python, c++ and java projects
 - 📫 How to reach me; email: josephsifani@gmail.com
 
 <!---
